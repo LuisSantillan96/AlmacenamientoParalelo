@@ -9,8 +9,8 @@
 
 String server = "";
 
-const char *ssid     = "INFINITUM6708_2.4";
-const char *password = "XY8zTaaN77";
+const char *ssid     = "Fam. Olvera";
+const char *password = "1234567890ABC";
 
 const int btnP12 = 4; //D2    
 const int btnP1 = 2; //D4    
